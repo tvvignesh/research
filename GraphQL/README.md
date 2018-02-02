@@ -1,8 +1,8 @@
 ## GraphQL
 
-### Main points
+### Outline
 
-Two concepts: Schema & Resolver functions
+Concepts: Schema & Resolver functions
 
 Categories: Queries, Mutations, Types, Schema
 
@@ -43,3 +43,14 @@ https://github.com/a7v8x/express-graphql-demo/tree/feature/1-setting-up-basic-gr
 ### Videos
 
 https://youtu.be/UBGzsb2UkeY
+
+### Pros
+
+1. Powerful queries for the client side
+2. Protocol independent
+
+### Cons
+
+1. Performance issues & deep quering if nested a lot
+2. Caching is difficult
+3. Resolver functions & Schema implementation needed for data to be exposed
