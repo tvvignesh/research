@@ -22,9 +22,17 @@ http://thinkinginsoftware.blogspot.in/2011/06/ireport-dynamically-hide-show-colu
 
 https://www.tutorialspoint.com/jasper_reports
 
+Sample jrxml - https://www.tutorialspoint.com/jasper_reports/jasper_report_designs.htm
+
+passing jrxml as reportunit - https://community.jaspersoft.com/documentation/tibco-jasperreports-server-rest-api-reference/v630/resource-descriptors
+
+Execute reportunit - https://community.jaspersoft.com/documentation/jasperreports-server-web-services-guide/v56/running-report-asynchronously
+
+Launch Report - https://community.jaspersoft.com/documentation/jasperreports-server-web-services-guide/v56/requesting-report-output
+
 ### Samples
 
-Included in reference links
+https://sourceforge.net/p/jasperreports/code/ci/jr-6-5-0/tree/jasperreports/demo/samples/
 
 ### Videos
 

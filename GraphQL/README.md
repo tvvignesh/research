@@ -14,6 +14,8 @@ None. Its a specification
 
 https://github.com/chentsulin/awesome-graphql
 
+https://dev-blog.apollodata.com/graphql-explained-5844742f195e
+
 https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/
 
 https://www.compose.com/articles/using-graphql-with-mongodb/
@@ -33,8 +35,6 @@ https://medium.com/the-ideal-system/graphql-and-mongodb-a-quick-example-34643e63
 https://medium.com/graphql-mastery/setting-up-basic-graphql-server-in-node-js-with-express-c25eeaa819c2
 
 https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/
-
-https://dev-blog.apollodata.com/graphql-explained-5844742f195e
 
 ### Samples
 
