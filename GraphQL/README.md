@@ -6,6 +6,10 @@ Concepts: Schema & Resolver functions
 
 Categories: Queries, Mutations, Types, Schema
 
+### Underlying technology
+
+None. Its a specification
+
 ### Reference Links
 
 https://github.com/chentsulin/awesome-graphql
@@ -54,3 +58,7 @@ https://youtu.be/UBGzsb2UkeY
 1. Performance issues & deep quering if nested a lot
 2. Caching is difficult
 3. Resolver functions & Schema implementation needed for data to be exposed
+
+### Licence
+
+MIT

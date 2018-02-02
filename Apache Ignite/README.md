@@ -4,6 +4,10 @@
 
 In memory Data grid
 
+### Underlying technology
+
+Java
+
 ### Reference Links
 
 https://www.gridgain.com/resources/blog/running-microservices-top-memory-data-grid-part-i
