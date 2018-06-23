@@ -12,6 +12,8 @@ None. Its a specification
 
 ### Reference Links
 
+https://graphql.org/learn/thinking-in-graphs/
+
 https://github.com/chentsulin/awesome-graphql
 
 https://dev-blog.apollodata.com/graphql-explained-5844742f195e
